@@ -1,1 +1,1 @@
-![readmebox](https://github.com/angganesia/angganesia/assets/23496701/b956932b-af99-4315-9661-ca92acdafb52)
+![readmebox](https://github.com/angganesia/angganesia/assets/23496701/755e2114-af7e-49ad-bb1b-ce9cbbcc046d)
