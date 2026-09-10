@@ -1,30 +1,33 @@
-<div align="center">
-  <a href="https://github.com/angganesia"><img src="https://github.com/angganesia/angganesia/assets/23496701/755e2114-af7e-49ad-bb1b-ce9cbbcc046d"/>  
-</div>
-<p align="center">
-  <a href="https://github.com/angganesia"><img title="Followers" src="https://img.shields.io/github/followers/angganesia?color=red&style=plastic"></a>
- <a href="https://github.com/angganesia"><img src="https://komarev.com/ghpvc/?username=angganesia&color=blue&label=Views&style=plastic" /></a>
- </p>
+<p align="center"> <a href="https://github.com/angganesia"><img src="https://github.com/angganesia/angganesia/assets/23496701/755e2114-af7e-49ad-bb1b-ce9cbbcc046d"/></a></p>
 
-# ChatMe !
-<div align="center">
-<a href="https://wa.me/6285161061927">
-<img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp--green?style=social&logo=Whatsapp&label=Whatsapp&link=Https%3A%2F%2Fwa.me%2F6285161061927"></a>
-<a href="https://t.me/henx27"><img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp--green?style=social&logo=Telegram&label=Telegram&link=Https%3A%2F%2Ft.me%2Fhenx27"></a>
-  
-</div>
+### Who am I
+
+<p align="center"> <a href="https://github.com/angganesia"><img title="Followers" src="https://img.shields.io/github/followers/angganesia?color=red&style=plastic"></a> <a href="https://github.com/angganesia"><img src="https://komarev.com/ghpvc/?username=angganesia&color=blue&label=Views&style=plastic" /></a></p>
+
+## 🌐 Socials:
+
+[![Telegram](https://img.shields.io/badge/Telegram-%23323330.svg?style=flat&logo=telegram)](https://t.me/henx27)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23323330.svg?style=flat&logo=whatsapp)](https://wa.me/6285161061927)
 
 ---
-# 🎚️ My Stats :
-<p align="center">
-  <a href="https://github.com/angganesia"><img src="https://github-readme-stats.vercel.app/api?username=angganesia&show_icons=true&theme=radical"></a>
-  <a href="https://github.com/angganesia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angganesia&theme=radical&layout=compact"></a>
-</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cassandra" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jekyll" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
 ---
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=angganesia)
+# 📊 GitHub Stats:
 
-</details>
+![](https://github-readme-stats.shion.dev/api?username=angganesia&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
+
+![](https://streak-stats.demolab.com/?user=angganesia&theme=react&hide_border=true)
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=angganesia&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Just%20for%20fun!&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%230d1117)
+
+---
